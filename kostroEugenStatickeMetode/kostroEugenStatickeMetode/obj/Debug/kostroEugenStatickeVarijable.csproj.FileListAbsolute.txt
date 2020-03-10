@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\kostroEugenStatickeMetode\kostroEugenStatickeMetode\bin\Debug\kostroEugenStatickeMetode.exe.config
+C:\Users\3.D\source\repos\kostroEugenStatickeMetode\kostroEugenStatickeMetode\bin\Debug\kostroEugenStatickeMetode.exe
+C:\Users\3.D\source\repos\kostroEugenStatickeMetode\kostroEugenStatickeMetode\bin\Debug\kostroEugenStatickeMetode.pdb
+C:\Users\3.D\source\repos\kostroEugenStatickeMetode\kostroEugenStatickeMetode\obj\Debug\kostroEugenStatickeVarijable.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\kostroEugenStatickeMetode\kostroEugenStatickeMetode\obj\Debug\kostroEugenStatickeVarijable.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenStatickeMetode\kostroEugenStatickeMetode\obj\Debug\kostroEugenStatickeMetode.exe
+C:\Users\3.D\source\repos\kostroEugenStatickeMetode\kostroEugenStatickeMetode\obj\Debug\kostroEugenStatickeMetode.pdb
